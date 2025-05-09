@@ -29,5 +29,3 @@ namespace KM_CM_Language {
 
 	void FreeGroup( const std::string Group ) { __LANGUAGE__.erase( Group ); }
 }
-
-int main() {}
