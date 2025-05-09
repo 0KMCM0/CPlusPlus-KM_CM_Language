@@ -1,5 +1,4 @@
-#ifndef KM_CM_LANGUAGE_H
-#define KM_CM_LANGUAGE_H
+#pragma once
 
 #include < unordered_map >
 #include < string >
@@ -37,5 +36,3 @@ namespace KM_CM_Language {
 
 	void FreeGroup( const std::string Group );
 }
-
-#endif
